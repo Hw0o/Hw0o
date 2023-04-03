@@ -20,4 +20,5 @@ If you are interested in me, please visit this blog. tistory : <a href="https://
   <img src="https://img.shields.io/badge/AssemblyScript-007AAC?style=flat-square&logo=C&logoColor=white"><a>...
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jangwoojun&exclude_repo=Web&hide=html,javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Eunjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jangwoojun&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hw0o&hide_progress=true&langs_count=10&layout=compact&theme=dark)](https://github.com/Hw0o/Hw0o)
 
