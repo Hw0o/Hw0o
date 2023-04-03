@@ -1,4 +1,4 @@
-## Hi there 🖖
+## Hi there 🖖🏻
 <img width="50%" src="https://i.pinimg.com/originals/33/74/fd/3374fd606fad6d27586fb85c46eb5cac.gif"/>
 
 Hello, I am currently a high school student. <BR>
@@ -12,7 +12,7 @@ I am challenging for Best of the  Best, and I want to work for a company called 
 If you are interested in me, please visit this blog. tistory : <a href="https://dhung77.tistory.com/"> my blog
 
 
-## Stats 👾   
+## Stats 👍🏻   
 
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> 
