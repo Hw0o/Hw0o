@@ -1,4 +1,4 @@
-## Hello Welcome 🖖
+## Hi there 🖖
 <img width="50%" src="https://i.pinimg.com/originals/33/74/fd/3374fd606fad6d27586fb85c46eb5cac.gif"/>
 
 Hello, I am currently a high school student. <BR>
