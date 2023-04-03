@@ -1,14 +1,13 @@
-## Welcome👋
+## Hello Welcome 🖖
 <img width="50%" src="https://i.pinimg.com/originals/33/74/fd/3374fd606fad6d27586fb85c46eb5cac.gif"/>
 
-Hello, my name is Jang Woojun and I am currently in high school.<br> 
-I am studying steadily every day for my dream of becoming an app developer.
-- 📲 &nbsp; Aspiring App Developer
-- 🏫 &nbsp; High School Student 
-- 📚 &nbsp; Study Every Day
+Bonjour, je suis actuellement lycéen. <BR>
+Nous faisons des recherches sur le piratage des systèmes, et nous prenons des notes régulièrement.
+- 💻 &nbsp; Study system hacking.
+- 📓 &nbsp; I study and organize every day.
 
-## Challenge 🏆
-I am currently challenging TIL challenge and Daily Commit challenge,Daily PS Challenge
+## Destination 🔥
+I am challenging for Best of the  Best, and I want to work for a company called Stileen in the future.
 
 If you're interested in my challenges, visit <a href="https://jangwoojun.github.io/"> my blog.
 
