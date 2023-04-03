@@ -1,5 +1,5 @@
 ## Welcome👋
-<img width="50%" src="https://mblogthumb-phinf.pstatic.net/MjAxODExMDFfMTcw/MDAxNTQxMDQyMDg4MjQ0.B0N974qP_FCEw6Hj28xDjRYXTHU6R7M7pEpvsRKhqlAg.zaTEhwKDfmQql81e44pyBapnlvdO38GdJHME-V_fQkAg.GIF.yellowouk2/1540993661620.GIF?type=w800"/>
+<img width="50%" src="https://i.pinimg.com/originals/33/74/fd/3374fd606fad6d27586fb85c46eb5cac.giftype=w800"/>
 
 Hello, my name is Jang Woojun and I am currently in high school.<br> 
 I am studying steadily every day for my dream of becoming an app developer.
