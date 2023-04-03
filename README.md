@@ -9,12 +9,13 @@ We do research on system hacking and take notes regularly.
 ## Destination 🔥
 I am challenging for Best of the  Best, and I want to work for a company called Stileen in the future.
 
-If you are interested in me, please visit this blog. tistory : <a href="https://dhung77.tistory.com/"> come
+If you are interested in me, please visit this blog. tistory : <a href="https://dhung77.tistory.com/"> my blog
 
 
 ## Stats 👾   
+
+
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> ...
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jangwoojun&exclude_repo=Web&hide=html,javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Eunjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jangwoojun&show_icons=true) 
