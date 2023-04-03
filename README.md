@@ -9,7 +9,7 @@ We do research on system hacking and take notes regularly.
 ## Destination 🔥
 I am challenging for Best of the  Best, and I want to work for a company called Stileen in the future.
 
-If you are interested in me, please visit this blog. tistory : <a href="https://dhung77.tistory.com/"> 
+If you are interested in me, please visit this blog. tistory : <a href="https://dhung77.tistory.com/"> my blog
 
 
 ## Stats 👾   
