@@ -1,15 +1,15 @@
 ## Hello Welcome 🖖
 <img width="50%" src="https://i.pinimg.com/originals/33/74/fd/3374fd606fad6d27586fb85c46eb5cac.gif"/>
 
-Bonjour, je suis actuellement lycéen. <BR>
-Nous faisons des recherches sur le piratage des systèmes, et nous prenons des notes régulièrement.
+Hello, I am currently a high school student. <BR>
+We do research on system hacking and take notes regularly.
 - 💻 &nbsp; Study system hacking.
 - 📓 &nbsp; I study and organize every day.
 
 ## Destination 🔥
 I am challenging for Best of the  Best, and I want to work for a company called Stileen in the future.
 
-If you're interested in my challenges, visit <a href="https://jangwoojun.github.io/"> my blog.
+If you are interested in me, please visit this blog. tistory : <a href="https://dhung77.tistory.com/"> 
 
 
 ## Stats 👾   
