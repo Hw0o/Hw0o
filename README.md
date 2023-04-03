@@ -1,5 +1,5 @@
 ## Welcome👋
-<img width="50%" src="https://i.pinimg.com/originals/33/74/fd/3374fd606fad6d27586fb85c46eb5cac.giftype=w800"/>
+<img width="50%" src="https://i.pinimg.com/originals/33/74/fd/3374fd606fad6d27586fb85c46eb5cac.gif"/>
 
 Hello, my name is Jang Woojun and I am currently in high school.<br> 
 I am studying steadily every day for my dream of becoming an app developer.
