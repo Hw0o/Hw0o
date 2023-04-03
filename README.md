@@ -19,5 +19,4 @@ If you are interested in me, please visit this blog. tistory : <a href="https://
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/AssemblyScript-007AAC?style=flat-square&logo=C&logoColor=white"><a>...
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hw0o&layout=compact)]([https://github.com/Hw0o/Hw0o]) ![Anurag's GitHub stats] (https://github-readme-stats.vercel.app/api?username=Hw0o&show_icons=true&theme=tokyonight)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hw0o&layout=compact)]([https://github.com/Hw0o/Hw0o]) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hw0o&show_icons=true&theme=tokyonight)
