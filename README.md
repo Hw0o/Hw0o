@@ -10,7 +10,7 @@ We do research on system hacking and take notes regularly.
 I am challenging for Best of the  Best, and I want to work for a company called Stileen in the future.
 
 If you are interested in me, please visit this blog. tistory : <a href="https://c-s-n.tistory.com/" target="_blank"> my blog </a>
-
+[Google]: http://google.com/ 
 
 ## Stats 👍🏻   
 
